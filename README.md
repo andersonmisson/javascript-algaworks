@@ -24,4 +24,6 @@
 <ul>
     <li> Aula 03-01 - Declaração </li>
     <li> Aula 03-02 - Invocação </li>
+    <li> Aula 03-03 - Auto-Invocação </li>
+    <li> Aula 03-04 - Closures </li>
 </ul>
